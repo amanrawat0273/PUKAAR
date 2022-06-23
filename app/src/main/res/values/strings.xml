@@ -1,17 +1,17 @@
 <resources>
-    <string name="app_name">BACHAO</string>
+    <string name="app_name">PUKAAR</string>
     <string name="drawer_open">Drawer Open</string>
     <string name="drawer_close">Drawer Close</string>
     <string name="sign_up">Already have an account? <u> Sign In </u></string>
     <string name="sign_in">Not registered yet! <u> Sign Up </u></string>
     <string-array name="divison_list">
-        <item>Dhaka</item>
-        <item>Chittagong</item>
-        <item>Khulna</item>
-        <item>Sylhet</item>
-        <item>Rajshahi</item>
-        <item>Barisal</item>
-        <item>Rangpur</item>
+        <item>Delhi</item>
+        <item>Punjab</item>
+        <item>Dehradun</item>
+        <item>Srinagar</item>
+        <item>Bihar</item>
+        <item>Rajasthan</item>
+        <item>Mumbai</item>
     </string-array>
 
     <string-array name="count_times">
@@ -22,6 +22,6 @@
         <item>10</item>
     </string-array>
 
-    <string name="email">farhansadaf@outlook.com</string>
+    <string name="email">joke.com</string>
 
 </resources>

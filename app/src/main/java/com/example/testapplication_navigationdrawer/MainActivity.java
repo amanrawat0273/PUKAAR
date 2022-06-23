@@ -229,7 +229,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         View dialogView = getLayoutInflater().inflate(R.layout.emergency_alertdialog_template, null);
         builder.setView(dialogView);
         builder.setTitle("Emergency Detected!");
-        builder.setMessage("Do you wanna Call 999 and Send Message to your close ones?");
+        builder.setMessage("Do you wanna Call and Send Message to your close ones?");
         builder.setIcon(R.drawable.eme);
         final AlertDialog dialog = builder.create();
         dialog.show();
